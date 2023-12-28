@@ -13,14 +13,8 @@ public class HomePage extends BaseClass {
 		}
 
 		@FindBy(xpath="//a[@href='/hotels/']")
-		private WebElement Hotels;
+		public WebElement Hotels;
 		
-		public WebElement getHotels() {
-			return Hotels;
-		}
-
-		public void setHotels(WebElement hotels) {
-			Hotels = hotels;
-		}
+		
 
 }
