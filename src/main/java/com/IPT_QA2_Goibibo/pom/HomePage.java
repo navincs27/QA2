@@ -19,7 +19,11 @@ public class HomePage extends BaseClass  {
 			
 			
 			
+<<<<<<< HEAD
 			
+=======
+			   
+>>>>>>> ShanthiHari
 }
 
 }
