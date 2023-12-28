@@ -1,5 +1,6 @@
 package com.IPT_QA2_Goibibo.pom;
 
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
@@ -25,5 +26,6 @@ public class HomePage extends BaseClass  {
 			   
 >>>>>>> ShanthiHari
 }
+
 
 }
