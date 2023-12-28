@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: Nila
 Build-Jdk: 17.0.8
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> ee17b59bf22af3b8b65ee01d36f39510450f5379
