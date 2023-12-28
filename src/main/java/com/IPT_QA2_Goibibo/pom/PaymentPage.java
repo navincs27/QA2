@@ -2,6 +2,10 @@ package com.IPT_QA2_Goibibo.pom;
 
 public class PaymentPage {
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f8599e483d474f5b87e003decd68d5dcbcf2b75f
 	
 
  public void name() {
@@ -19,6 +23,10 @@ public class PaymentPage {
 	}
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f8599e483d474f5b87e003decd68d5dcbcf2b75f
    
 	
 	
@@ -26,4 +34,14 @@ public void push() {
 	System.out.println("rgk");
 }
 
+<<<<<<< HEAD
+=======
+	
+	private void paymentoption() {
+		
+
+	}
+
+
+>>>>>>> f8599e483d474f5b87e003decd68d5dcbcf2b75f
 }
