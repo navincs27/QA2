@@ -154,6 +154,8 @@ public static WebDriver driver;
 		WebDriverWait wait = new WebDriverWait(driver, 30);
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
-
+ public static void refresh() {
+	 driver.navigate().refresh();
+ }
 
 }
