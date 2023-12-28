@@ -14,6 +14,12 @@ public class HomePage extends BaseClass  {
 			//mbl no
 			WebElement username = driver.findElement(By.xpath("//input[@class='loginCont__input']"));
 			username.sendKeys("9094191951");
+			
+			
+			
+			
+			
+			
 }
 
 }
