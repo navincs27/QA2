@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: gunas
 Build-Jdk: 17.0.5
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+<<<<<<< HEAD
+Build-Jdk-Spec: 17
+=======
+Built-By: gunas
+Build-Jdk: 17.0.5
+>>>>>>> 5e86669b1a6fa7a5c270c6b01a027930d5dcfdc7
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> 8c8fc7d5bd1e02286960522de5c725df7f694356
