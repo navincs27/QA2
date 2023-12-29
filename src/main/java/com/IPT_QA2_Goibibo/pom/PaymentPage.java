@@ -4,6 +4,7 @@ public class PaymentPage {
 
 	
 
+
  public void name() {
 	 
 	 System.out.println("hi world");
@@ -13,6 +14,10 @@ public class PaymentPage {
 	private void testpay() {
 		System.out.println("bhartthi belongs to QA");
 		System.out.println("changes by kavi");
+	}
+	private void Payment12() {
+		
+
 		
 
 		
