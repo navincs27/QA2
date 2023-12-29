@@ -8,7 +8,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "",
+@CucumberOptions(features = "D:\\eclipse\\Task\\QA2\\src\\test\\java\\com\\IPT_QA2_Goibibo\\Runner_Class.java",
 								glue = "com.StepDef", monochrome = true, 
 								dryRun = false, 
 								plugin= {"json:JsonReport/limelog.json", "html:Htmlreport/limelogn.html",
